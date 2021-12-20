@@ -1,6 +1,11 @@
 # DBM2
 Repository for the Data Mining project.
 
+Tasks:
+- Preprocessing
+- Custering
+- Pattern Mining
+- Classification
 
 Data sets being used:
 
