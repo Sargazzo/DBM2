@@ -9,11 +9,11 @@ Tasks:
 
 Data sets being used:
 
-keystrokes dynamics:
+Keystrokes Dynamics (Classisication):
 https://www.kaggle.com/carnegiecylab/keystroke-dynamics-benchmark-data-set
 
-Pattern mining: 
+Groceries (Pattern mining): 
 https://www.kaggle.com/heeraldedhia/groceries-dataset
 
-Weather analyzes (clustering):
+Weather analysis (Clustering):
 https://www.kaggle.com/davidbnn92/weather-data/data
