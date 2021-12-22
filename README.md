@@ -1,6 +1,8 @@
 # DBM2
 Repository for the Data Mining project.
 
+! Please make sure to have all the files in one folder to ensure that the directories are addressed accordingly.
+
 Tasks:
 - Preprocessing
 - Custering
@@ -24,5 +26,3 @@ https://www.kaggle.com/davidbnn92/weather-data/data
 
 The results can be found in the Weather Clusters.ipynb file.
 
-
-Please make sure to have all the files in one folder to ensure that the directories are addressed accordingly.
