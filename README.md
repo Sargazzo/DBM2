@@ -9,7 +9,7 @@ Tasks:
 
 Data sets being used:
 
-Keystrokes Dynamics (Classisication):
+Keystrokes Dynamics (Classification):
 https://www.kaggle.com/carnegiecylab/keystroke-dynamics-benchmark-data-set
 
 Groceries (Pattern mining): 
